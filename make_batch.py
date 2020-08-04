@@ -13,7 +13,7 @@ import os
 batname=sys.argv[1] #batch file name to create
 # batname='testfile'
 
-
+#IMPORTANT: Replace this file path to your environment location
 content='@ py C:\\Aamod\\Python_Programs\\py_files\\ %*'
 print("Add pause? y/n")
 answer=input()
